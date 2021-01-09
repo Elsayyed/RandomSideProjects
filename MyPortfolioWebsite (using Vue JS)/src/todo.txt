@@ -1,0 +1,29 @@
+Navbar:
+    1- turn bullet points into transparent buttons, rounded corners.
+    2- make home clickable to take you back to home
+    3 (optional)- add the particles js to the navbar
+
+Home:
+    1- write the about me actually.
+    2- fix my picture positioning and size.
+    3- Add languages I speak.
+    4- when I hover over my picture it should show go to resume/skills aw whatever
+    5- Add a Resume Button at the left bottom
+    6- add social media icons
+
+About Me:
+    1- turn it into Resume sturcture.
+    2- add resume
+
+Projects:
+    1- create the website projects using collage
+    2- Add the projects actually.
+
+Skills: 
+    1- add more 7ashwwwwww
+    2- DE10 ECE2220 board
+    3- figure a header for the page
+
+General:
+    Responsitivity.
+
